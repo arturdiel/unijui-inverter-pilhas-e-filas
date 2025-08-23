@@ -1,0 +1,14 @@
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/inversaoDePilhas.GeneratedMSBuildEditorConfig.editorconfig
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/inversaoDePilhas.AssemblyInfoInputs.cache
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/inversaoDePilhas.AssemblyInfo.cs
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/inversaoDePilhas.csproj.CoreCompileInputs.cache
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/bin/Debug/net8.0/inversaoDePilhas
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/bin/Debug/net8.0/inversaoDePilhas.deps.json
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/bin/Debug/net8.0/inversaoDePilhas.runtimeconfig.json
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/bin/Debug/net8.0/inversaoDePilhas.dll
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/bin/Debug/net8.0/inversaoDePilhas.pdb
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/inversaoDePilhas.dll
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/refint/inversaoDePilhas.dll
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/inversaoDePilhas.pdb
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/inversaoDePilhas.genruntimeconfig.cache
+/root/projects_dev/unijui/estrutura-de-dados/inversao-de-pilhas/inversaoDePilhas/obj/Debug/net8.0/ref/inversaoDePilhas.dll
