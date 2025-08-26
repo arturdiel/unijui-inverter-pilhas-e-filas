@@ -3,7 +3,7 @@ public class Pilha
     // Inversão de pilha usando 1 fila auxiliar
     static void InverterPilha<T>(Stack<T> pilha)
     {
-        Queue<T> fila = new ();
+        Queue<T> fila = new();
 
         // Desimpilhar e Enfileirar
         while (pilha.Count > 0)
@@ -36,6 +36,12 @@ public class Pilha
         // Imrpime a pilha
         Console.WriteLine("Pilha original:");
         Imprimir(pilha);
+        // SAIDA
+        // Pilha original:
+        // A
+        // B
+        // C
+        // D
 
         // Inverte a pilha utilizando o metodo da classe
         InverterPilha(pilha);
@@ -43,6 +49,12 @@ public class Pilha
         // Imprime a pilha invertida
         Console.WriteLine("\nPilha invertida:");
         Imprimir(pilha);
+        // SAIDA
+        // Pilha invertida:
+        // D
+        // C
+        // B
+        // A
 
     }
 }
