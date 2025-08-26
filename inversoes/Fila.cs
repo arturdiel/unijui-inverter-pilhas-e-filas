@@ -26,6 +26,10 @@ public class Fila
         // Imprime a fila
         Console.WriteLine("\nFila antes da inversão:");
         Console.WriteLine(string.Join(" - ", fila));
+        
+        // SAIDA
+        // Fila antes da inversão:
+        // A - B - C - D
 
         // Inverte a fila utilizando o metodo da classe
         InverterFila(fila);
@@ -33,5 +37,9 @@ public class Fila
         // Imprime a fila invertida
         Console.WriteLine("\nFila depois da inversão:");
         Console.WriteLine(string.Join(" - ", fila));
+
+        // SAIDA
+        // Fila depois da inversão:
+        // D - C - B - A
     }
 }
